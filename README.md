@@ -22,16 +22,16 @@ I HAVE AUTOMATED THE PROCESS OF BUILD AND PUSH DOCKER IMAGE TO DOCKER HUB BY CRE
 <b>3)ADDED SECRETS</b><br>
 <img src="Screenshots/Docker/actionsecrets.png"> <br/>
 
-<b>2)UPDATED SECRETS SUCCESSFULLY</b><br>
+<b>4)UPDATED SECRETS SUCCESSFULLY</b><br>
 <img src="Screenshots/Docker/secretsadded.png"> <br/>
 
-<b>2)PUSHING COMMIT</b><br>
-<img src="Screenshots/Docker/pushingcommit.png.png"> <br/>
+<b>5)PUSHING COMMIT</b><br>
+<img src="Screenshots/Docker/pushingcommit.png"> <br/>
 
-<b>2)PUSHED COMMIT SUCCESSFULLY</b><br>
+<b>6)PUSHED COMMIT SUCCESSFULLY</b><br>
 <img src="Screenshots/Docker/pushedcommit.png"> <br/>
 
-<b>2)GETTING BUILD IN GITHUB ACTIONS</b><br>
+<b>7)GETTING BUILD IN GITHUB ACTIONS</b><br>
 <img src="Screenshots/Docker/build/buildone.png"> <br/>
 <img src="Screenshots/Docker/build/buildtwo.png"> <br/>
 <img src="Screenshots/Docker/build/Screenshot(186).png"> <br/>
@@ -40,8 +40,8 @@ I HAVE AUTOMATED THE PROCESS OF BUILD AND PUSH DOCKER IMAGE TO DOCKER HUB BY CRE
 <img src="Screenshots/Docker/build/Screenshot(190).png"> <br/>
 <img src="Screenshots/Docker/build/Screenshot(191).png"> <br/>
 
-<b>2)SUCCESSFULLY PUSHED AS YOU CAN SEE IN DOCKERHUB </b><br>
+<b>8)SUCCESSFULLY PUSHED AS YOU CAN SEE IN DOCKERHUB </b><br>
 <img src="Screenshots/Docker/build/successfullypushed.png"><br/>
 
-<b>2)SUCCESSFULLY CONTENT PULLED AS YOU CAN SEE I HAVE RUN THE PPLICATION </b><br>
+<b>9)SUCCESSFULLY CONTENT PULLED AS YOU CAN SEE I HAVE RUN THE PPLICATION </b><br>
 <img src="Screenshots/Docker/build/pullimagesuccessful.png"><br/>
