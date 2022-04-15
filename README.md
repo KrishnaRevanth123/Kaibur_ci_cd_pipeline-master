@@ -41,7 +41,7 @@ I HAVE AUTOMATED THE PROCESS OF BUILD AND PUSH DOCKER IMAGE TO DOCKER HUB BY CRE
 <img src="Screenshots/Docker/build/Screenshot (191).png"> <br/>
 
 <b>8)SUCCESSFULLY PUSHED AS YOU CAN SEE IN DOCKERHUB </b><br>
-<img src="Screenshots/Docker/build/successfullypushed.png"><br/>
+<img src="Screenshots/Docker/successfullypushed.png"><br/>
 
 <b>9)SUCCESSFULLY CONTENT PULLED AS YOU CAN SEE I HAVE RUN THE PPLICATION </b><br>
-<img src="Screenshots/Docker/build/pullimagesuccessful.png"><br/>
+<img src="Screenshots/Docker/pullimagesuccessful.png"><br/>
