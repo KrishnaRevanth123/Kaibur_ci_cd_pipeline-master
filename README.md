@@ -1,1 +1,1 @@
-# ci-cd piple using github-actions-example
+# ci-cd pipe line using github-actions-example
