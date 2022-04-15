@@ -34,11 +34,11 @@ I HAVE AUTOMATED THE PROCESS OF BUILD AND PUSH DOCKER IMAGE TO DOCKER HUB BY CRE
 <b>7)GETTING BUILD IN GITHUB ACTIONS</b><br>
 <img src="Screenshots/Docker/build/buildone.png"> <br/>
 <img src="Screenshots/Docker/build/buildtwo.png"> <br/>
-<img src="Screenshots/Docker/build/Screenshot(186).png"> <br/>
-<img src="Screenshots/Docker/build/Screenshot(187).png"> <br/>
-<img src="Screenshots/Docker/build/Screenshot(188).png"> <br/>
-<img src="Screenshots/Docker/build/Screenshot(190).png"> <br/>
-<img src="Screenshots/Docker/build/Screenshot(191).png"> <br/>
+<img src="Screenshots/Docker/build/Screenshot (186).png"> <br/>
+<img src="Screenshots/Docker/build/Screenshot (187).png"> <br/>
+<img src="Screenshots/Docker/build/Screenshot (188).png"> <br/>
+<img src="Screenshots/Docker/build/Screenshot (190).png"> <br/>
+<img src="Screenshots/Docker/build/Screenshot (191).png"> <br/>
 
 <b>8)SUCCESSFULLY PUSHED AS YOU CAN SEE IN DOCKERHUB </b><br>
 <img src="Screenshots/Docker/build/successfullypushed.png"><br/>
