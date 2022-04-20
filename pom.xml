@@ -36,7 +36,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>revanth-kaibur-image</finalName>
+		<finalName>springboot-k8s-demos</finalName>
 	</build>
 
 </project>

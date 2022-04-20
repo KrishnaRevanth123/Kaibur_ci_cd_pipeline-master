@@ -28,7 +28,7 @@ jobs:
     - name: Build & push Docker image
       uses: mr-smithers-excellent/docker-build-push@v5
       with:
-        image: kurumeti1234/revanth-kaibur-image
+        image: kurumeti1234/springboot-k8s-demos
         tags: latest
         registry: docker.io
         dockerfile: Dockerfile
