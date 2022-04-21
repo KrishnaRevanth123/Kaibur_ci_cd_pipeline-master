@@ -1,21 +1,21 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: springboot-k8s-demo
+  name: springboot-k8s-demos
   namespace: default
 spec:
   replicas : 3
   selector:
     matchLabels :
-      app: springboot-k8s-demo
+      app: springboot-k8s-demos
   template:
     metadata:
       labels:
-        app: springboot-k8s-demo
+        app: springboot-k8s-demos
     spec:
       containers:
-        - name: springboot-k8s-demo
-          image: springboot-k8s-demo:1.0
+        - name: springboot-k8s-demos
+          image: springboot-k8s-demos:1.0
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 8080
